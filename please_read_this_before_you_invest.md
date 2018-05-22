@@ -7,7 +7,7 @@ We haven’t assessed whether these products suit you, so you don’t have the b
 **By clicking 'Invest now' below, you confirm that:**
 
 - You’re 18 years old or over and not a US person
-- You’ve read and make the [ISA declaration](https://isadeclarationmodal) (if applicable) [//]: # (This bullet not displayed for Unit Trusts)
+- You’ve read and make the [ISA declaration](https://isadeclarationmodal) (if applicable) 
 - You accept the [terms and conditions](https://www20.landg.com/DocumentLibraryWeb/Document?lgrouter=CommApp&targetApp=MANAGEYOURACCOUNT_DOCUMENTLIBRARY_ENTRY&reference=terms.pdf) (PDF)
 
 **On the basis of the above**
